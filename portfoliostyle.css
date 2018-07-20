@@ -1,6 +1,20 @@
-#tm{
-    font-family: "Times New Roman", Times, serif;
+p{
+    
+
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Abel', sans-serif;
+    width: 30%;
+    padding: 3em;
+    border-style: solid;
+    border-color: black;
+    border-width: 20px;
+    margin: 3em;
+    background-color: white;
 }
 body{
-background-color: palevioletred
+background-color: hotpink
 }
+h1 { 
+    font-family: 'Playfair Display', serif;
+ } 
