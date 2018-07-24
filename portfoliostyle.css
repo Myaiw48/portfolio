@@ -70,3 +70,6 @@ h1{
      transform: scale(1);
    }
   }
+  .spacer{
+    margin:50px;
+  }
