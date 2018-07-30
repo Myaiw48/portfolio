@@ -1,4 +1,4 @@
-Portfolio final grade: 81
+Portfolio final grade: 91
 
 Comments:  Good start, but could have been a lot better if you had paid attention to the ToDo suggestions I left.
 
@@ -32,11 +32,11 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 60
+Grade: 110
 (25% of overall grade)
 
 Points deducted for these items:
-    -50 Media queries / mobile responsive design not included.
+    None
 
 Bonus points aded for these items:
     +10 for including both animation and transitions
